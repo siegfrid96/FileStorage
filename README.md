@@ -1,4 +1,4 @@
 # FileStorage
 For my public projects
 
-> Public Viewing <
+For Public Viewing
